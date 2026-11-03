@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 2,
+  "publicationOrigin": "https://stackandsnac-yxrmnwev.manus.game",
+  "title": "Pastelaria do Bairro",
+  "description": "Um jogo brasileiro de montar pastéis no navegador.",
+  "defaultCaptions": {},
+  "assets": {
+    "favicon": {
+      "digest": "sha256:68236574c1919b0ba53fb887fd3060a4f5d620bc800a3d8d11986829684f9771",
+      "path": "share/68236574c1919b0ba53fb887fd3060a4f5d620bc800a3d8d11986829684f9771.png",
+      "mime": "image/png",
+      "width": 1920,
+      "height": 1920,
+      "sizeBytes": 5228501
+    }
+  }
+}
